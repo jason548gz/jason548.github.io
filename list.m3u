@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,无线新闻台
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF:-1,中视
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1,华视
+http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1,东森新闻
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
